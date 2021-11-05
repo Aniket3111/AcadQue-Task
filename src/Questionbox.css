@@ -1,0 +1,17 @@
+.question{
+    justify-content: center;
+    margin: auto;
+    padding: 30px;
+}
+.question img{
+    width: 700px;
+    margin-left: 280px;
+}
+
+.question h4{
+    padding-top: 20px;
+}
+.category{
+    display: flex;
+    flex-direction: column;
+}
